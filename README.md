@@ -1,4 +1,4 @@
-#BonsaiSoilControl
+# BonsaiSoilControl
 
 Welcome to the BonsaiSoilControl repository! This project is dedicated to the comprehensive care and management of Bonsai trees. It includes automation scripts, a management system, and a user-friendly interface to monitor the health and growth of Bonsai trees.
 
