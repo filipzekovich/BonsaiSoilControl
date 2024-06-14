@@ -16,55 +16,9 @@ Management System: Monitor and manage the health and growth of Bonsai trees.
 Java Integration: Enhancements and new structure for better integration with JavaFX.
 User Interface: Intuitive Java-based UI for easy data input and management.
 jSerialComm Integration: Facilitates communication between the user interface and hardware components.
-Installation
-Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/yourusername/BonsaiSoilControl.git
-Navigate to the project directory:
-
-bash
-Copy code
-cd BonsaiSoilControl
-Build the project:
-
-Copy code
-mvn clean install
-Usage
-Start the application:
-
-Copy code
-java -jar target/BonsaiProjectApp.jar
-Use the intuitive UI to manage and monitor your Bonsai trees.
-
-Contributing
-We welcome contributions from the community! Please follow these steps to contribute:
-
-Fork the repository.
-
-Create a new branch:
-
-bash
-Copy code
-git checkout -b feature/your-feature-name
-Make your changes and commit them:
-
-sql
-Copy code
-git commit -m 'Add your feature'
-Push to the branch:
-
-bash
-Copy code
-git push origin feature/your-feature-name
-Create a pull request.
-
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 Contact
-For any inquiries or feedback, please contact us at [your-email@example.com].
+For any inquiries or feedback, please contact us at [filipzekovic01@gmail.com].
 
 Happy Bonsai gardening!
 
