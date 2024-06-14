@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "Project1",
+			"path": "../Project1"
+		},
+		{
+			"name": "BonsaiProject",
+			"path": "../BonsaiProject"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			".fantomasignore": "ignore",
+			"io.h": "c"
+		}
+	}
+}
